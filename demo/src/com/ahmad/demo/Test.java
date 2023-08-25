@@ -8,6 +8,7 @@ public class Test {
 		System.out.println("Result  : "+result);
 	}
 	public int add(int a, int b){
+		System.out.println(a+" : "+b);
 		return a+b;
 	}
 	
