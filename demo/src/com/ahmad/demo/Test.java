@@ -2,7 +2,6 @@ package com.ahmad.demo;
 
 public class Test {
 
-	// main method
 	public static void main(String[] args) {
 		Test test = new Test();
 		int result = test.add(10, 20);
